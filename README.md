@@ -16,9 +16,10 @@ Multipurpose Learning.
 - [ ] Know who people are, what the repos and packages are, know them as a user.
 - [ ] List 30 packages, people
 - [ ] DiffEqVerse
-- [ ] JuliaDiff
+- [ ] JuliaDiff - know big players, big repos, how to use forwarddiff well.
 - [ ] ForwardDiff.jl
 - [ ] Calculus.jl
+- [ ] FiniteDiff.jl
 - [ ] OrdinaryDiffEq.jl
 - [ ] StochasticDiffEq.jl
 - [ ] NLsolve.jl
