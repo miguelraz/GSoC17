@@ -14,7 +14,8 @@ Multipurpose Learning.
 
 ### Pre-GSoC - Community bonding time
 - [ ] Know who people are, what the repos and packages are, know them as a user.
-- [ ] List 30 packages, people,
+- [ ] List 30 packages, people
+- [ ] DiffEqVerse
 - [ ] JuliaDiff
 - [ ] ForwardDiff.jl
 - [ ] Calculus.jl
