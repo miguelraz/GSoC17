@@ -20,16 +20,19 @@ Multipurpose Learning.
 - [ ] Calculus.jl
 - [ ] OrdinaryDiffEq.jl
 - [ ] StochasticDiffEq.jl
+- [ ] NLsolve.jl
+- [ ] Roots.jl 
+- [ ] Plots.jl
+- [ ] Setup up me [own package](http://www.stochasticlifestyle.com/finalizing-julia-package-documentation-testing-coverage-publishing/)
+- [ ] Get through [UCIDataScienceInitiative](ucidatascienceinitiative.github.io/IntroToJulia)
+
 
 
 ## Examples to do:
 
 - [ ] Work through Euler (May9 discussion, DiffEq lobby) and Jacobians
-
 - [ ] [UCIDataScienceInitiative](http://ucidatascienceinitiative.github.io/IntroToJulia/) Projects and such
-
 - [ ] [fempoisson example](http://docs.juliadiffeq.org/latest/tutorials/fempoisson_example.html)
-
 - [ ] DevDocs use case and walkthrough
 
 ## Stretch goals
@@ -37,15 +40,10 @@ Multipurpose Learning.
 - [ ] Complex autodifferentiation for physics - so then it probably can be a straightforward application of ForwardDiff to build those equations from a Hamiltonian
 - Euler-Langrange
 - he'll need to dig into how the diffeq functions are differenitated which is all about handling closures and that jazz it's the same idea to differentiate H(p,q) so that would be a good exercise then the internals would make a lot more sense.
-
 - [ ] Turbo DiffEqPhysics
-
 - [ ] katthyat qmech
-
 - [ ] shutz and misner
-
 - [ ] wonsheok shin EM
-
 - [ ] add old methods for didactic purposes
 
 ## Open problems:
@@ -55,13 +53,10 @@ Multipurpose Learning.
 ## Other GSoCs:
 
 - [ ] @shivin9 - speed up elliptics PDEs
-
 - [ ] Yannis - FEM
-
 - [ ] Ying Bo - BVP
 
 ## Taking care of the little things:
 
 - [ ] Typos in all DiffEqDocs et al
-
 - [ ] Graph of DiffEq dependencies
