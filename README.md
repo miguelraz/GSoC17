@@ -27,7 +27,7 @@ Multipurpose Learning.
 - [ ] Roots.jl 
 - [ ] Plots.jl
 - [ ] Setup up me [own package](http://www.stochasticlifestyle.com/finalizing-julia-package-documentation-testing-coverage-publishing/)
-- [ ] Get through [UCIDataScienceInitiative](ucidatascienceinitiative.github.io/IntroToJulia)
+- [ ] Get through [UCIDataScienceInitiative](https://ucidatascienceinitiative.github.io/IntroToJulia)
 
 
 
