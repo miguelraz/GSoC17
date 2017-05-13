@@ -16,6 +16,7 @@ Multipurpose Learning.
 - [ ] Know who people are, what the repos and packages are, know them as a user.
 - [ ] List 30 packages, people
 - [ ] DiffEqVerse
+- [ ] [DPSanders awesome class notebooks](https://github.com/dpsanders/FisicaComputacional2017_2)
 - [ ] JuliaDiff - know big players, big repos, how to use forwarddiff well.
 - [ ] ForwardDiff.jl
 - [ ] Calculus.jl
