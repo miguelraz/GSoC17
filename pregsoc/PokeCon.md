@@ -38,11 +38,10 @@
 
 18. @ZhangShiwei - new features for Flux.jl
 
-
 ---------------------------------
 1. @dextorious
 
-2.  @musm
+2. @musm
 
 3. @sbromberger
 
@@ -62,7 +61,7 @@
 
 11. @jamesonquinnes
 
-12 @Ismael-VC
+12. @Ismael-VC
 
 13. @tkelman
 
@@ -79,3 +78,7 @@
 19. @KristofferC
 
 20. @ararslan
+
+21. @jrevels - Reverse and F Diff. MIT.
+
+22. @scidom - Stats and Chemical kinetics. Uni of Glasgow. [Stats by example in Julia](https://github.com/scidom/StatsLearningByExample.jl)
