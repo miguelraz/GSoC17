@@ -11,7 +11,8 @@ Multipurpose Learning.
 - [ ] Refactor JuliaDiffEq/OrdinaryDiffEq.jl@8318c0f
 * The abstraction of the Shampine Matlab ODE Suite paper is the key goal for project. [Many things spring off from this.](http://people.eecs.berkeley.edu/~wkahan/Math128/ODEsuite.pdf)
 - [ ] Read tests and get on implementing ODEs as test cases
-
+### Docs
+- Handle Latex stuff in [the DiffEq](http://docs.juliadiffeq.org/stable/types/ode_types.html#Mathematical-Specification-of-an-ODE-Problem-1) docs and elsewhere.
 ### Pre-GSoC - Community bonding time
 - [ ] Know who people are, what the repos and packages are, know them as a user.
 - [ ] List 30 packages, people
