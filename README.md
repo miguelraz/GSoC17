@@ -85,3 +85,4 @@ Multipurpose Learning.
 - [ ] Famous formulas in physics
 - [ ] geometrized/quantized units/ cgs/kms/dynas / astronomical
 - [ ] Unitful plots in DiffEq
+- [ ] [shortunits.jl](https://github.com/Keno/SIUnits.jl/blob/master/src/shortunits.jl) needs some love with physical constants and metaprogramming magics.
