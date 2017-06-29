@@ -64,3 +64,21 @@ Multipurpose Learning.
 
 - [ ] Typos in all DiffEqDocs et al
 - [ ] Graph of DiffEq dependencies
+
+## Side Projects
+- [ ] Document Cassette
+- [ ] Add cool functions to Calculus.jl (J, H, P, Spherical Harmonics)
+- [ ] Circuits and Graphs?
+- [ ] Geometric Optics
+- [ ] Coord Transforms - Elliptic, Parabolic, Hyperbolic, and combos
+- [ ] More dimensional Tensors
+- [ ] Measurements, Unitful, Data Frames
+- [ ] SICP
+- [ ] SICM
+- [ ] Cormen
+- [ ] Functional Diff Geo
+- [ ] Deep Learning + Calc + Abramowitz + Books
+- [ ] Aerodynamics and Deep Learning and Flow
+- [ ] Interval Arithmetic and DiffEq
+- [ ] TaylorIntegration in DiffEq
+
