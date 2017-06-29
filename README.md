@@ -83,6 +83,6 @@ Multipurpose Learning.
 - [ ] TaylorIntegration in DiffEq
 - [ ] complicacada con autodiff 
 - [ ] Famous formulas in physics
-- [ ] geometrized/quantized units/ cgs/kms/dynas / astronomical
+- [ ] geometrized/quantized units/ cgs/kms/dynas / astronomical / Planck
 - [ ] Unitful plots in DiffEq
-- [ ] [shortunits.jl](https://github.com/Keno/SIUnits.jl/blob/master/src/shortunits.jl) needs some love with physical constants and metaprogramming magics.
+- [ ] [shortunits.jl](https://github.com/Keno/SIUnits.jl/blob/master/src/shortunits.jl) needs some love with physical constants and metaprogramming magics for [all of the prefixes](http://www.npl.co.uk/reference/measurement-units/si-prefixes/).
