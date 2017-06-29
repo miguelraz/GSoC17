@@ -81,4 +81,6 @@ Multipurpose Learning.
 - [ ] Aerodynamics and Deep Learning and Flow
 - [ ] Interval Arithmetic and DiffEq
 - [ ] TaylorIntegration in DiffEq
+- [ ] complicacada con autodiff 
+- [ ] Famous formulas in physics
 
