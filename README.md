@@ -83,5 +83,5 @@ Multipurpose Learning.
 - [ ] TaylorIntegration in DiffEq
 - [ ] complicacada con autodiff 
 - [ ] Famous formulas in physics
-- [ ] geometrized/quantized units
-
+- [ ] geometrized/quantized units/ cgs/kms/dynas
+- [ ] Unitful plots in DiffEq
